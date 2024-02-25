@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://silvermarkg.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://silvermarkg.github.io/" rel="alternate" type="text/html" /><updated>2024-02-25T23:16:04+00:00</updated><id>https://silvermarkg.github.io/feed.xml</id><title type="html">silvermarkg labs</title><subtitle>my technical blog</subtitle><author><name>Mark Goodman</name></author><entry><title type="html">Example Post 2</title><link href="https://silvermarkg.github.io/example-post-2/" rel="alternate" type="text/html" title="Example Post 2" /><published>2023-09-14T00:00:00+01:00</published><updated>2023-09-14T00:00:00+01:00</updated><id>https://silvermarkg.github.io/example-post-2</id><content type="html" xml:base="https://silvermarkg.github.io/example-post-2/"><![CDATA[<p>This is an example post to see what it looks like.</p>
+
+<p>New paragraph not included in exceprt. Lets put lots of text in here to see how it affects differenct layouts. We should also put in an image or two and may typograph elements so I can see what they all look like.</p>
+
+<h1 id="heading-1">Heading 1</h1>
+
+<h2 id="heading-2">Heading 2</h2>
+
+<h3 id="heading-3">HEading 3</h3>]]></content><author><name>Mark Goodman</name></author><summary type="html"><![CDATA[Some different text for the excerpt instead of using the first paragraph]]></summary></entry><entry><title type="html">Example Post 1</title><link href="https://silvermarkg.github.io/intune/powershell/example-post-1/" rel="alternate" type="text/html" title="Example Post 1" /><published>2023-09-12T00:00:00+01:00</published><updated>2023-09-12T00:00:00+01:00</updated><id>https://silvermarkg.github.io/intune/powershell/example-post-1</id><content type="html" xml:base="https://silvermarkg.github.io/intune/powershell/example-post-1/"><![CDATA[<p><img src="/assets/images/posts/AppRequest.png" alt="App Request logo with 2x2 boxes, with bottom right coloured differently and the words App Request to the right of the boxes." /></p>
+
+<p>This is an example post to see what it looks like.</p>
+
+<p>New paragraph not included in exceprt. Lets put lots of text in here to see how it affects differenct layouts. We should also put in an image or two and may typograph elements so I can see what they all look like.</p>
+
+<h1 id="heading-1">Heading 1</h1>
+
+<h2 id="heading-2">Heading 2</h2>
+
+<h3 id="heading-3">HEading 3</h3>]]></content><author><name>Mark Goodman</name></author><category term="Intune" /><category term="PowerShell" /><category term="Intune" /><category term="Logic app" /><category term="PowerShell" /><summary type="html"><![CDATA[Some different text for the excerpt instead of using the first paragraph]]></summary></entry></feed>
