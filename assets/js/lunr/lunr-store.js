@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/example-post-2/",
         "teaser": null
+      },{
+        "title": "Markup: HTML Tags and Formatting",
+        "excerpt":"A variety of common markup showing how the theme styles them. This is a copy of the sample post from Minimal Mistakes docs with my modifications. Header two Header three Header four Header five Header six Blockquotes Single line blockquote: Stay hungry. Stay foolish. Multi line blockquote with a cite...","categories": [],
+        "tags": [],
+        "url": "/markup-html-tags-and-formatting/",
+        "teaser": null
       }]
